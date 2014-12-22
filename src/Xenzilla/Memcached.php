@@ -21,9 +21,6 @@
  *
  */
 
-namespace Xenzilla;
-
-
 class Memcached
 {
     // Options

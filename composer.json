@@ -1,5 +1,5 @@
 {
-    "name": "xenzilla/memcached",
+    "name": "taniele/memcached",
     "description": "An all PHP implementation of the PECL memcached extension with SASL PLAIN Auth support",
     "keywords": ["memcache", "memcached", "sasl"],
     "homepage": "http://github.com/mastacheata/memcached",
